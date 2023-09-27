@@ -1,0 +1,345 @@
+#a1{
+    font-family:Roboto;
+
+      padding-right : 40px;
+        
+    font-size:larger;
+}
+.p1{
+    color:#ddd;
+    font-size:20px;
+}
+.what{
+    color:darkslateblue;
+}
+#a2{
+    font-family:Roboto;
+    padding-right : 40px;
+    font-size:larger;
+}
+#a3{
+    font-family:Roboto;
+    padding-right : 40px;
+    font-size:larger;
+}
+#a4{
+    font-family:Roboto;
+    padding-right:40px;
+    font-size:larger;
+}
+#a5{
+    font-family:Roboto;
+    padding-right : 40px;
+    font-size:larger;
+}
+#a6{
+    font-family:Roboto;
+    padding-right : 40px;
+    font-size:larger;
+}
+#a7{
+    font-family:Roboto;
+    
+    font-size:larger;
+}
+.sign{
+    font-family: "Lucida Handwriting", cursive;
+    color:purple;
+    
+}
+.cls2{
+    padding:30px;
+    color:darkblue;
+   
+}
+.git{
+    height:6vh;
+}
+.btn{
+    background-color:purple;
+    color:white;
+    margin-right:30px;
+    padding:10px;
+    
+}
+.cls3{
+    padding-left:30px;
+}
+.money{
+    margin-left:auto;
+}
+.siri{
+    background-color:antiquewhite;
+}
+.custom-navbar{
+    background-color:antiquewhite;
+}
+.p1{
+    color:darkgray;
+    padding:5px;
+    letter-spacing: 1px;
+    font-family:sans-serif;
+    font-size:20px;
+}
+.man{
+    width: 500px; /* Set the desired width */
+    height: 500px; /* Set the desired height */
+    border-radius: 50%; /* Creates a circular shape */
+    object-fit: cover; 
+    padding-left:50px;
+    padding-top:10px;   
+}
+.mans{
+    width: 500px; /* Set the desired width */
+    height: 500px; /* Set the desired height */
+    border-radius: 50%; /* Creates a circular shape */
+    object-fit: cover;
+    padding-right:50px;
+}
+a{
+    color:red;
+}
+
+.c1{
+    padding-bottom:50px;
+}
+.c22{
+    padding-top:80px;
+    padding-left:50px;  
+    padding-bottom:50px;
+}
+.p2{
+    color:darkgray;
+}
+.c23{
+    color:darkgray;
+
+}
+.c23 i {
+    width: 30px; /* Adjust the width as needed */
+    margin-right: 20px; 
+    padding-right:20px;
+    padding-bottom:20px;/* Add spacing between icons */
+    
+}
+.c32{
+    padding-left:500px;
+}
+#myProgress {
+    width: 300%;
+    background-color: #ddd;
+     border-radius:20px;
+  }
+  
+  #myBar1 {
+    width: 80%;
+    height: 18px;
+    background-color:blueviolet;
+    text-align: center;
+    line-height: 20px;
+    color: white;
+     border-radius:20px;
+   
+  }
+  #myBar2 {
+    width: 60%;
+    height: 18px;
+    background-color:blueviolet;
+    text-align: center;
+    line-height: 10px;
+    color: white;
+     border-radius:20px;
+   
+  }
+  #myBar3 {
+    width: 40%;
+    height: 18px;
+    background-color:blueviolet;
+    text-align: center;
+    line-height: 5px;
+    color: white;
+     border-radius:20px;
+   
+  }
+  
+  .img3{
+    height:50vh;
+  }
+  .c3{
+    padding:30px;
+  }
+  .pro{
+    padding-bottom:20px;
+    color:darkslateblue;
+  }
+  .div1{
+    padding-bottom:20px;
+  }
+  .c4{
+    padding:50px;
+  }
+  .c41{
+    padding-left:50px;
+    padding-bottom:25px;
+  }
+.c411{
+   
+   
+    border-radius:20px;
+    box-shadow: 10px 10px ghostwhite; 
+    width: 1000px;
+    height: 200px;
+    margin-right:25px;
+}
+.dot {
+    height: 10px;
+    width: 10px;
+    background-color: yellow;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .space-between-words {
+    margin-right: 300px; /* Adjust the value to control the spacing */
+}
+.img12{
+    height:2vh;
+}
+.bn{
+    text-align:center;
+}
+.img123{
+    height:2vh;
+}
+.c5{
+    padding-bottom:50px ;
+}
+.c6{
+    padding:100px;
+}
+.u{
+    font-weight:bold;
+    font-size:80px;
+    padding-top:70px;
+}
+.paras{
+ font-weight:100px;
+}
+/* Define a CSS class for the navigation links */
+.nav-link {
+    color: blue;
+    /* You can use any color value you prefer */
+    text-decoration: none; /* Remove underline from links */
+  }
+  
+  /* Apply the nav-link class to the <a> elements within the navigation */
+  nav a {
+    text-decoration: none; /* Remove underline from links */
+  }
+  .sp50{
+    margin-right:100px;
+  }
+  
+  /* Style the links on hover (optional) */
+  .nav-link:hover {
+    color: red; /* Change color on hover */
+  }
+ .navbar-expand-lg{
+    background-color: blue;
+    /* You can use any color value you prefer */
+    padding: 10px; /* Add padding for spacing */
+  }
+.saya{
+    padding-right:50px;
+}
+.c12{
+    background-color: antiquewhite;
+}
+.cent{
+    text-align:center;
+    background-color:antiquewhite;
+}
+.c7{
+    padding-left:50px;
+    padding-bottom:50px;
+}
+.imgg{
+    height:30vh;
+    padding-left:0px;
+}
+.c71{
+    padding-left:10px;
+    box-shadow:20px 20px 20px  ghostwhite;
+    width:400px; 
+    
+}
+
+.sp1{
+    margin-right:80px;
+}
+.p21{
+    color:darkgray;
+}
+.sp12{
+    margin-left:30px;
+}
+
+.para{
+    color:darkgrey;
+}
+.c8{
+    padding-left:50px;
+    padding-bottom:100px;
+}
+.c81{
+    
+    width: 500px;
+    box-shadow:50px 50px white;
+}
+.c9{
+    padding-left:50px;
+}
+.c91{
+    
+        background-color: ghostwhite;
+        width: 500px;
+        border: 15px solid ghostwhite;
+        padding: 50px;
+        margin: 20px;
+        text-align:center;
+      
+}
+.btn2{
+    background-color:blueviolet;
+}
+.xy{
+    text-align:center;
+}
+.c10,.c11{
+    padding-left:50px;
+    padding-bottom:100px;
+}
+.c12{
+    padding-left:50px;
+}
+.map{
+    height:3vh;
+}
+.iconic{
+    width: 250px; /* Adjust the size as needed */
+  height: 250px; /* Should be the same as the width to create a circle */
+  border-radius: 50%;
+  padding: left 10px;
+  /* width: 500px; 
+  height: 500px; 
+  border-radius: 50%;
+  object-fit: cover; 
+  padding-left:50px;
+  padding-top:10px;*/
+}
+
+.c99{
+    text-align:right;
+}
+.spans{
+    margin-right:300px;
+}
