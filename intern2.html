@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="intern2.css" >
+</head>
+<body>
+    <div class="container">
+        <h1 class="heading"><b>Task Manager</b></h1>
+        <div class="task-form">
+            <label>Enter a Task : &nbsp; </label>
+            <input type="text" id="input"> &nbsp;&nbsp;
+            <button class="btn btn-primary" onclick="adding()">Add Task</button>
+        </div>
+        <ul id="listing"></ul>
+    </div>
+
+    <script>
+        const taskInput = document.getElementById("input");
+        const taskList = document.getElementById("listing");
+
+        function adding() {
+            const taskText = taskInput.value.trim();
+            if (taskText !== "") {
+                const li = document.createElement("li");
+                li.innerHTML = `<span>${taskText}</span> <button class="delete-button" onclick="deleting(this)">Delete</button>`;
+                taskList.appendChild(li);
+                taskInput.value = "";
+            }
+        }
+
+        function deleting(button) {
+            const li = button.parentElement;
+            taskList.removeChild(li);
+        }
+
+    </script>
+</body>
+</html>
